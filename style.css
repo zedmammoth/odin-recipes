@@ -1,6 +1,6 @@
 .header {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 55px;
+    font-size: 70px;
     font-weight: bold;
     color: aqua;
 }
@@ -15,4 +15,46 @@
 
 * {
     background-color: blueviolet;
+}
+
+.sub-head {
+    color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.list {
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraph {
+    color: rgb(201, 117, 38);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.header.sub-head {
+    font-size: 40px;
+}
+
+p,
+li {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3,
+h4 {
+    color: rgb(52, 212, 60);
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 60px;
+    color: crimson;
+    background-color: aqua;
 }
